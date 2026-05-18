@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "obsidian-skills",
+  "description": "Obsidian second brain workflows for Claude Code: vault queries, work-mode project execution, conversation summarization, and skill search",
+  "owner": {
+    "name": "vextorhorizon"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-skills",
+      "description": "Obsidian vault, work-mode, summarize, and skill-search with GitHub support",
+      "source": "./",
+      "category": "workflow"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "obsidian-skills",
+  "description": "Obsidian second brain workflows for Claude Code: vault queries, work-mode project execution, conversation summarization, and skill search",
+  "version": "1.0.0",
+  "author": {
+    "name": "vextorhorizon"
+  },
+  "license": "MIT",
+  "keywords": ["obsidian", "work-mode", "skill-search", "second-brain"],
+  "skills": [
+    "./skills/obsidian-summarize",
+    "./skills/obsidian-vault",
+    "./skills/work-mode",
+    "./skills/skill-search"
+  ]
+}
